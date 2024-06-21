@@ -1,0 +1,27 @@
+a <= 4
+b <= 5
+c <= 9
+
+x <= 4
+x <= 4
+y <= 8
+
+p <= 4
+q <= 5
+p <= 4 
+
+abcd <= 4999
+efgh <= 4999
+ijkl <= 9998
+
+ send <=  9999
+ more <=  9999
+money <= 19998
+
+m = 1
+s = 9
+o = 0
+
+e + o = n
+e + 0 != n // letters cannot be the same
+n + r = e

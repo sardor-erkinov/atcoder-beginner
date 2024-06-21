@@ -1,0 +1,15 @@
+const listOfUnsolvedProblems = [
+    { title: "D - Snuke's Coloring", number: 45 },
+    { title: "C - Many Formulas", number: 45 },
+    { title: "D - Connectivity", number: 49 },
+    { title: "B", number: 50 },
+    { title: "C", number: 50 },
+    { title: "D", number: 50 },
+    { title: "C", number: 51 },
+    { title: "D", number: 51 },
+    { title: "D", number: 52 },
+    { title: "C", number: 53 },
+    { title: "D", number: 53 },
+    { title: "C", number: 54 },
+    { title: "D", number: 54 },
+]
